@@ -1,1 +1,1 @@
-# tp_archi avec corrextion du commentaire
+# tp_archi avec correction du commentaire
